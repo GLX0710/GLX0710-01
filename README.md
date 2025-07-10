@@ -30,4 +30,4 @@
 
 正确的吃瓜姿势
 作为信息消费者，我们鼓励大家做到“三不”：不盲信、不传播、不跟风攻击。此外，我们也致力于为大家提供经查证、可追溯、角度多元的爆料解读。
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/GLX0710/GLX0710-01)</span>
